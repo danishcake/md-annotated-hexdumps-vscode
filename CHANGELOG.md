@@ -1,3 +1,5 @@
+# [1.3.0](https://github.com/danishcake/md-annotated-hexdumps-vscode/compare/v1.2.0...v1.3.0) (2025-01-08)
+
 # [1.2.0](https://github.com/danishcake/md-annotated-hexdumps-vscode/compare/v1.1.0...v1.2.0) (2024-09-04)
 
 
